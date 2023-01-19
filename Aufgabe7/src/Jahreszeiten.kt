@@ -52,7 +52,6 @@ fun main() {
     for(i in 2..monate.size-1 step 2){
         println(monate[i])
     }
-
 }
 
 fun jahresZeiten(monat:String): String{
