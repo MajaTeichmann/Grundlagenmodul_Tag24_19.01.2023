@@ -1,4 +1,4 @@
-//todo: Das Schlüsselwort break wird verwendet, um vorzeitig aus einer Schleif auszubrechen.
+//todo: Das Schlüsselwort break wird verwendet, um vorzeitig aus einer Schleife auszubrechen.
 // In der Aufgabendatei ist eine Liste numbers vorgegeben.
 // Schreibe eine Schleife, die vom Anfang der Liste ausgehend eine Zahl nach der Anderen prüft und in der Konsole ausgibt.
 // Wenn die Zahl gleich 42 ist, gib in der Konsole "Zahl gefunden." aus. Breche dann die Schleife mit break ab.
