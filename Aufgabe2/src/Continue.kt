@@ -15,14 +15,6 @@ fun main() {
     var gesuchteZahl = 42
     var i = 0
 
-//    while (i in 0 until numbers.size-1){
-//        println(numbers[i])
-//        i++
-//        if(numbers[i] == gesuchteZahl){
-//            continue
-//        }
-//    }
-
 
     for (i in 0 until numbers.size) {
         if (numbers[i] == gesuchteZahl) {
